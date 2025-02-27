@@ -22,3 +22,4 @@ bank_account_1 = BankAccount("Fred", 100)
 bank_account_2 = BankAccount("Susie", 200)
 bank_account_3 = BankAccount("Billie", 300)
 BankAccount.display_bank_info()
+
